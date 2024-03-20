@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "layer8_core_openapi_client"
+name = "openapi-client"
 version = "1.0.0"
 description = "Layer8 Core API"
 authors = ["Layer8 Technologies <contact@layer8.io>"]
